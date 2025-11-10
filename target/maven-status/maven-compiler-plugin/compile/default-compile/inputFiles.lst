@@ -1,0 +1,15 @@
+/home/educm/NetBeansProjects/TaskManagement/src/main/java/com/taskmanagement/app/Main.java
+/home/educm/NetBeansProjects/TaskManagement/src/main/java/com/taskmanagement/components/notification/EmailNotificationService.java
+/home/educm/NetBeansProjects/TaskManagement/src/main/java/com/taskmanagement/components/notification/INotificationService.java
+/home/educm/NetBeansProjects/TaskManagement/src/main/java/com/taskmanagement/components/notification/SmsNotificationService.java
+/home/educm/NetBeansProjects/TaskManagement/src/main/java/com/taskmanagement/components/tasks/ITaskService.java
+/home/educm/NetBeansProjects/TaskManagement/src/main/java/com/taskmanagement/components/tasks/TaskService.java
+/home/educm/NetBeansProjects/TaskManagement/src/main/java/com/taskmanagement/components/users/IUserService.java
+/home/educm/NetBeansProjects/TaskManagement/src/main/java/com/taskmanagement/components/users/UserService.java
+/home/educm/NetBeansProjects/TaskManagement/src/main/java/com/taskmanagement/core/domain/Task.java
+/home/educm/NetBeansProjects/TaskManagement/src/main/java/com/taskmanagement/core/domain/TaskStatus.java
+/home/educm/NetBeansProjects/TaskManagement/src/main/java/com/taskmanagement/core/domain/User.java
+/home/educm/NetBeansProjects/TaskManagement/src/main/java/com/taskmanagement/core/repositories/ITaskRepository.java
+/home/educm/NetBeansProjects/TaskManagement/src/main/java/com/taskmanagement/core/repositories/IUserRepository.java
+/home/educm/NetBeansProjects/TaskManagement/src/main/java/com/taskmanagement/infra/db/InMemoryTaskRepository.java
+/home/educm/NetBeansProjects/TaskManagement/src/main/java/com/taskmanagement/infra/db/InMemoryUserRepository.java

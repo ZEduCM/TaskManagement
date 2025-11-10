@@ -1,0 +1,15 @@
+com/taskmanagement/core/domain/User.class
+com/taskmanagement/infra/db/InMemoryTaskRepository.class
+com/taskmanagement/components/users/UserService.class
+com/taskmanagement/components/tasks/ITaskService.class
+com/taskmanagement/core/domain/TaskStatus.class
+com/taskmanagement/components/notification/INotificationService.class
+com/taskmanagement/core/repositories/ITaskRepository.class
+com/taskmanagement/components/tasks/TaskService.class
+com/taskmanagement/components/notification/SmsNotificationService.class
+com/taskmanagement/core/domain/Task.class
+com/taskmanagement/components/users/IUserService.class
+com/taskmanagement/core/repositories/IUserRepository.class
+com/taskmanagement/components/notification/EmailNotificationService.class
+com/taskmanagement/app/Main.class
+com/taskmanagement/infra/db/InMemoryUserRepository.class

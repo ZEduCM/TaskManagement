@@ -2,15 +2,16 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
  */
-package com.taskmanagement.components.users;
+package com.taskmanagement.components.taskmanagement;
 
-import com.taskmanagement.core.domain.User;
+import com.taskmanagement.core.domain.Task;
 import java.util.UUID;
-
+        
 /**
  *
  * @author educm
  */
-public interface IUserService {
-    User getUserById(UUID id);
+public interface ITaskService {
+    Task createTask(String title, String description, UUID assigneeId);
+    Task getTask(UUID taskId);
 }

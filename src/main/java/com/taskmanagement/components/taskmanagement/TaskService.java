@@ -2,10 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.taskmanagement.components.tasks;
+package com.taskmanagement.components.taskmanagement;
 
 import com.taskmanagement.components.notification.INotificationService;
-import com.taskmanagement.components.users.IUserService;
+import com.taskmanagement.components.usermanagement.IUserService;
 import com.taskmanagement.core.repositories.ITaskRepository;
 import com.taskmanagement.core.domain.Task;
 import com.taskmanagement.core.domain.User;
